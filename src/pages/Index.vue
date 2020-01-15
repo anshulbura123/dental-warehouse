@@ -18,7 +18,7 @@ export default
 	name: 'PageIndex',
 	components:
 	{
-		Carosuel,
+		Carousel,
 		AboutUs,
 		ContactUs,
 		WhyUs,
